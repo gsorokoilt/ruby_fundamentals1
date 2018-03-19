@@ -5,5 +5,3 @@ if number > 100
 elsif number< 100
   puts "dream a little bigger"
 end
-
-# elsif number<=100 then puts "why not dream a little bigger"
