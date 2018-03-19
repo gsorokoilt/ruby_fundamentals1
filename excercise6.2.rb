@@ -9,10 +9,10 @@ while home >=0 && user_mode != "go home" && energy >0
 
     if user_mode == "walk"
     home+=1
-    energy+=1
+    energy+=5
     elsif user_mode == "run"
     home+=5
-    energy-=1
+    energy-=20
 else puts "Invalid response"
 
     end
